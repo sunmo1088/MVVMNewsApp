@@ -5,11 +5,13 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_breaking_news.xml" value="0.199" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29559270516717323" />
+        <entry key="app/src/main/res/layout/activity_news.xml" value="0.4929078014184397" />
         <entry key="app/src/main/res/layout/fragment_article.xml" value="0.30192502532928067" />
         <entry key="app/src/main/res/layout/fragment_saved_news.xml" value="0.30192502532928067" />
         <entry key="app/src/main/res/layout/fragment_search_news.xml" value="0.30192502532928067" />
         <entry key="app/src/main/res/layout/frament_breaking_news.xml" value="0.30192502532928067" />
         <entry key="app/src/main/res/layout/item_article_preview.xml" value="0.30192502532928067" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.6574074074074074" />
       </map>
     </option>
   </component>
