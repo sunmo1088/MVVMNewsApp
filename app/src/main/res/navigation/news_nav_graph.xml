@@ -45,3 +45,4 @@
         android:name="com.example.mvvmnewsapp.ui.fragments.ArticleFragment"
         android:label="ArticleFragment" />
 </navigation>
+
