@@ -18,4 +18,4 @@ class NewsActivity : AppCompatActivity() {
     }
 }
 
-//test
+
