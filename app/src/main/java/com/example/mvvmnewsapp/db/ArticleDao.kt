@@ -6,7 +6,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.example.mvvmnewsapp.ui.Article
+import com.example.mvvmnewsapp.models.Article
 
 //DAO - Data Access Object
 //It is like NewsAPI interface. We define the function how we can access local database
