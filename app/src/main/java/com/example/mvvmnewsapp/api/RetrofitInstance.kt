@@ -15,10 +15,10 @@ class RetrofitInstance {
             // I added a dependency earlier to be able to log response of retrofit
             // which is very useful for debugging
             // this logging interceptor give ability to log response of retrofit
-            // We attach to retrofit object to be able to see which requests we are
+            // We attach this logging interceptor to retrofit object to be able to see which requests we are
             // actually making and what the response are
             val logging = HttpLoggingInterceptor()
-            // We can see body of response
+            // By setting level, we can see body of response
             logging.setLevel(HttpLoggingInterceptor.Level.BODY)
             val client = OkHttpClient.Builder()
                 .addInterceptor(logging)
