@@ -1,5 +1,6 @@
-package com.example.mvvmnewsapp.ui
+package com.example.mvvmnewsapp.models
 
+import com.example.mvvmnewsapp.models.Article
 
 
 data class NewsResponse(

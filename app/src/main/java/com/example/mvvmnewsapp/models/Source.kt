@@ -1,4 +1,4 @@
-package com.example.mvvmnewsapp.ui
+package com.example.mvvmnewsapp.models
 
 
 
